@@ -1,0 +1,81 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    color: red;
+    font-style: italic;
+}
+
+.imagen-centrada {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.resaltado {
+    background-color: yellow;
+    font-size: 30px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.enlace {
+    display: block;
+    margin-top: 15px;
+    color: blue;
+    text-decoration: underline;
+}
+
+.fondo-flor {
+    background-image: url('https://thumbs.dreamstime.com/z/flor-ejemplo-del-vector-44304295.jpg?ct=jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 20px;
+}
+
+h4 {
+    color: red;
+    text-align: center;
+}
+
+.sub {
+    background-color: yellow;
+    font-size: 12px;
+    padding: 2px 4px;
+    color: black;
+}
+
+.caja-amarilla {
+    background-color: orange;
+    padding: 10px;
+    width: 150px;
+    margin: 10px 0;
+}
+
+.caja-azul {
+    background-color: steelblue;
+    color: white;
+    padding: 15px;
+    margin-top: 30px;
+    border: 1px solid black;
+}
+
+.google {
+    background-color: orange;
+    padding: 2px 5px;
+    color: white;
+    text-decoration: none;
+}
+
+pre {
+    font-family: monospace;
+    background: rgba(255,255,255,0.5);
+    padding: 8px;
+}

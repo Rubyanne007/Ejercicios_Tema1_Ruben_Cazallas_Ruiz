@@ -1,0 +1,43 @@
+table {
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+.tabla1 {
+    border: 2px solid blue;
+}
+
+.tabla1 th {
+    border: 1px solid blue;
+    padding: 8px;
+    background-color: #f0f0f0;
+}
+
+.tabla1 td {
+    border: 1px solid blue;
+    padding: 8px;
+}
+
+.tabla2 {
+    border: 3px solid goldenrod;
+}
+
+.tabla2 th {
+    background-color: #d3d3d3;
+    border: 1px solid goldenrod;
+    padding: 8px;
+}
+
+.tabla2 td {
+    border: 1px solid goldenrod;
+    padding: 8px;
+    text-align: center;
+}
+
+.verde {
+    background-color: yellowgreen;
+}
+
+.gris {
+    background-color: #d3d3d3;
+}

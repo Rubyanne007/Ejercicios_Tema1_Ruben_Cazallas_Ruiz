@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.menu-horizontal {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    background-color: #7a7a4a;
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333;
+}
+
+.menu-horizontal li a {
+    display: block;
+    padding: 12px 25px;
+    color: white;
+    text-decoration: none;
+}
+
+.menu-horizontal li a:hover {
+    background-color: #55552e;
+}
+
+.menu-vertical {
+    list-style: none;
+    padding: 0;
+    width: 150px;
+}
+
+.menu-vertical li a {
+    display: block;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    background-color: yellowgreen;
+    margin-bottom: 2px;
+}
+
+.menu-vertical li.activo a {
+    background-color: red;
+}
+
+.menu-vertical li a:hover {
+    background-color: #5a8c1a;
+}

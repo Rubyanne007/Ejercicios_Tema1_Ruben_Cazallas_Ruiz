@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.cabecera-azul {
+    background-color: skyblue;
+    padding: 10px;
+    border: 1px solid blue;
+    text-align: center;
+    font-style: italic;
+}
